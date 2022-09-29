@@ -55,3 +55,4 @@ A [dev mailing list](http://lists.open-bio.org/mailman/listinfo/biojava-dev) use
 *Aleix Lafita, Spencer Bliven, Andreas Prlić, Dmytro Guzenko, Peter W. Rose, Anthony Bradley, Paolo Pavan, Douglas Myers-Turnbull, Yana Valasatava, Michael Heuer, Matt Larson, Stephen K. Burley, Jose M. Duarte* <br/>
 [PLOS Computational Biology 15(2): e1006791](http://dx.plos.org/10.1371/journal.pcbi.1006791) <br/>
 [![doi](http://img.shields.io/badge/doi-10.1371%2Fjournal.pcbi.1006791-blue.svg?style=flat)](https://doi.org/10.1371/journal.pcbi.1006791)
+////////////

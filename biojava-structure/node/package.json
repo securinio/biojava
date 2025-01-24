@@ -1,0 +1,27 @@
+{
+  "name": "@securin/connector-framework-client",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/*"
+  ],
+  "scripts": {
+    "build": "npm run generate-api-client && npm run compile",
+    "compile": "tsc",
+    "generate-api-client": "node generate-client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.7.7"
+  },
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.13.4",
+    "@types/axios": "^0.14.0",
+    "typescript": "^5.5.2"
+  },
+  "private": true
+}
